@@ -1,0 +1,20 @@
+{
+  "name": "fdb",
+  "description": "An elegant provider model for promise based factories",
+  "version": "0.1.0",
+  "contributors": [
+    {
+      "name": "Ash Brener",
+      "url": "http://frisB.com"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/frisb/fdb/issues"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fdb/writeln"
+  },
+  "keywords": []
+}
