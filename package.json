@@ -1,7 +1,7 @@
 {
   "name": "fdb",
   "description": "An elegant provider model for promise based factories",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "contributors": [
     {
       "name": "Ash Brener",
